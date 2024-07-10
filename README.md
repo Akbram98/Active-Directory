@@ -5,7 +5,9 @@
 Designed an active directory home lab by running it as a service on windows server 2022 and further configuring the server to function as a domain controller. Hosted and configured a splunk server on ubuntu server platform to allow for enterprise level SIEM features over the web. Installed Sysmon on host machine to ingest host's telemetry for retrieval on splunk server dashboard for further analysis. The goal behind this home lab project is to gain exposure and familiarity with common tools used in the cybersecurity industry and also to simulate a scenario where tools and services used in the industry can be safegaurded from malicious events through log analysis and threat detection.
 
 ## System Design
-![Example Image](https://github.com/Akbram98/Active-Directory/blob/main/AD_Diagram.png)
+![AD_Diagram](https://github.com/Akbram98/Active-Directory/blob/main/AD_Diagram.png)
+
+###Title: Diagram above showing the design of the system components and interactions for this active directory project
 
 ## Getting Started
 
