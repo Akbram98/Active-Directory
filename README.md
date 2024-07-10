@@ -24,5 +24,5 @@ This project wouldn't be possible without the many cybersecurity projects and in
   - Setup an attacking machine via Kali Linux which performs a brute-force attack using crowbar to gain user credentials
   - Enabled RDP on target machine to prepare for a malicious attack simulation through remote login attempts
   - Analysed event logs on splunk server after the brute-force attack to observe what kind of telemetry was generated
-  - Installed Atomic Redteam to test TTPs provided by MITRE ATT&CK against the current system, and observed what telemetry this generated on splunk server
+  - Installed Atomic Redteam to test TTPs provided by MITRE ATT&CK against the current system, and observed the telemetry this generated on splunk server
   - Practiced System Design using Draw.io to provide a graphical overview of the systems and interaction between components
