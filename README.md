@@ -7,7 +7,7 @@ Designed an active directory home lab by running it as a service on windows serv
 ## System Design
 ![AD_Diagram](https://github.com/Akbram98/Active-Directory/blob/main/AD_Diagram.png)
 
-###Title: Diagram above showing the design of the system components and interactions for this active directory project
+### Title: Diagram above showing the design of the system components and interactions for this active directory project
 
 ## Getting Started
 
