@@ -26,7 +26,7 @@ This project wouldn't be possible without the many cybersecurity projects and in
 
 ## Project Setup Phase 2 - Target Machine
 
-![Target Machine Diagram](https://github.com/Akbram98/Active-Directory/blob/main/TargetMachine_Diagram.drawio.png)
+![Target Machine Diagram](https://github.com/Akbram98/Active-Directory/blob/main/TargetMachine_Diagram.png)
 
 ### Setup Prerequisites
 - [Download Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
