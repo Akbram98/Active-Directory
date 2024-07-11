@@ -24,7 +24,7 @@ This project wouldn't be possible without the many cybersecurity projects and in
  - [Download Ubuntu server msi](https://ubuntu.com/download/server)
  - [Download Kali Linux prebuilt VM](https://www.kali.org/get-kali/#kali-virtual-machines)
 
-## Project Setup Phase 2 - Target Machine, Sysmon, Splunk Universal Forwarder
+## Project Setup Phase 2 - Target Machine
 
 ![Target Machine Diagram](https://github.com/Akbram98/Active-Directory/blob/main/TargetMachine_Diagram.drawio.png)
 
