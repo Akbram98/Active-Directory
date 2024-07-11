@@ -11,7 +11,7 @@ This project wouldn't be possible without the many cybersecurity projects and in
 ## System Design
 ![AD_Diagram](https://github.com/Akbram98/Active-Directory/blob/main/AD_Diagram.png)
 
-##### Title: Diagram above showing the design of system components and interactions for this active directory project
+##### Title: Diagram above shows the design of system components and interactions for this active directory project
 
 ## Project Setup Phase 1 - Virtual Box VM setup
 
