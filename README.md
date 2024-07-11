@@ -15,7 +15,7 @@ This project wouldn't be possible without the many cybersecurity projects and in
 
 ## Project Setup Phase 1 - Virtual Box VM setup
 
-![Virtual Box Setup](https://github.com/Akbram98/Active-Directory/blob/main/Setup_Phase1.png)
+![Virtual Box Setup](https://github.com/Akbram98/Active-Directory/blob/main/VBox_Setup.png)
 
 ### Setup Prerequisites
  - [Install Virtual Box](https://www.virtualbox.org/)
