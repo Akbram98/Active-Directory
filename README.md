@@ -33,7 +33,7 @@ This project wouldn't be possible without the many cybersecurity projects and in
 - [Download Splunk Universal Forwarder Installer](https://www.splunk.com/en_us/products/splunk-enterprise.html)
 - [Download sysmonconfig.xml file](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml)
 
-## Project Setup Phase 3 - Server setup and Attacking machine
+## Project Setup Phase 3 - Servers and Attacking machine
 
 ![Server and Attack Machine diagram](https://github.com/Akbram98/Active-Directory/blob/main/Servers%26TargetMachine_Diagram.png)
 
