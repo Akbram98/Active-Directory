@@ -35,7 +35,7 @@ This project wouldn't be possible without the many cybersecurity projects and in
 
 ## Project Setup Phase 3 - Servers and Attacking machine
 
-![Server and Attack Machine diagram](https://github.com/Akbram98/Active-Directory/blob/main/Servers%26TargetMachine_Diagram.png)
+![Server and Attack Machine diagram](https://github.com/Akbram98/Active-Directory/blob/main/Servers%26AttackMachine_Diagram.png)
 
 ### Setup Prerequisites
 - [Download sysmonconfig.xml file in Windows Server 2022 machine](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml)
