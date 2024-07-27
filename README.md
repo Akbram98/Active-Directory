@@ -2,7 +2,12 @@
 
 ## Description
 
-Designed an active directory home lab by running it as a service on windows server 2022 and further configuring the server to function as a domain controller. Hosted and configured a splunk server on ubuntu server platform to allow for enterprise level SIEM features over the web. Installed Sysmon on host machine to ingest host's telemetry for retrieval on splunk server dashboard for further analysis. The goal behind this home lab project is to gain exposure and familiarity with common tools used in the cybersecurity industry and also to simulate a scenario where tools and services used in the industry can be safegaurded from malicious events through log analysis and threat detection.
+This project involves the creation and configuration of an Active Directory home lab, utilizing Windows Server 2022 as a domain controller. The lab setup includes:
+
+- **Windows Server 2022**: Configured to run Active Directory services and function as a domain controller.
+- **Splunk Server**: Deployed on an Ubuntu Server platform to provide enterprise-level Security Information and Event Management (SIEM) capabilities accessible over the web.
+- **Sysmon Installation**: Installed on the host machine to collect telemetry data, which is then ingested and visualized on the Splunk server dashboard for detailed analysis.
+The primary objective of this project is to gain practical experience with key cybersecurity tools and techniques. By simulating real-world scenarios, the project demonstrates how industry-standard tools and services can be protected against malicious activities through effective log analysis and threat detection.
 
 ## Getting Started
 
