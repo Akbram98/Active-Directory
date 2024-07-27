@@ -43,12 +43,13 @@ This project wouldn't be possible without the many cybersecurity projects and in
 - [Download Splunk Universal Forwarder Installer in Windows Server 2022 machine](https://www.splunk.com/en_us/products/splunk-enterprise.html)
    
 ## Learning outcomes
-  - Installed and configured a splunk server using the ubuntu server platform
-  - Installed and configured Windows Server 2022 to run as a domain controller with active directory services
-  - Configured hosts to send application, security and application event logs to the splunk server via Splunk Forwarder
-  - Configured hosts to send Sysmon event logs to the splunk server via Splunk Forwarder
-  - Setup an attacking machine via Kali Linux which performs a brute-force attack using crowbar to gain user credentials
-  - Enabled RDP on target machine to prepare for a malicious attack simulation through remote login attempts
-  - Analysed event logs on splunk server after the brute-force attack to observe what kind of telemetry was generated
-  - Installed Atomic Redteam to test TTPs provided by MITRE ATT&CK against the current system, and observed the telemetry this generated on splunk server
-  - Practiced System Design using Draw.io to provide a graphical overview of the systems and interaction between components
+- Installed and configured a Splunk server on an Ubuntu platform to centralize log management and analysis.
+- Set up and configured Windows Server 2022 as a domain controller with Active Directory services.
+- Configured hosts to forward application, security, and system event logs to the Splunk server using Splunk Forwarder.
+- Enabled Sysmon on hosts and configured them to send event logs to the Splunk server via Splunk Forwarder.
+- Deployed a Kali Linux machine to conduct a brute-force attack using Crowbar to simulate credential theft.
+- Enabled Remote Desktop Protocol (RDP) on target machines to simulate and analyze remote login attack scenarios.
+- Analyzed event logs on the Splunk server post-attack to identify and interpret telemetry data.
+- Implemented Atomic Red Team to test MITRE ATT&CK Tactics, Techniques, and Procedures (TTPs), and analyzed the resulting telemetry on the Splunk server.
+- Practiced system design using Draw.io to create graphical representations of system architecture and component interactions.
+
